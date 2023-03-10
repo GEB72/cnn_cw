@@ -1,0 +1,10 @@
+name: cnn
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9.0
+  - numpy
+  - tensorflow
+  - matplotlib
+  - sklearn
